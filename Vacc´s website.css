@@ -21,6 +21,7 @@ h1 {
 }
 
 p {
+  color: grey;
     font-family: 'Neucha', cursive;
     font-size: 20px;
     margin-left: 90px;
@@ -32,4 +33,20 @@ nav{
 }
 .bg-primary {
    background-color:lightblue !important;
+}
+h5,
+h6{
+  color: black;
+  font-family: 'Neucha', cursive, bold;
+  font-size: 20px;
+  margin-bottom: -40px;
+  margin-top: 50px;
+}
+
+h7{
+  color: white;
+  font-family: 'Neucha', cursive, bold;
+  font-size: 20px;
+  margin-bottom: -70px;
+
 }
