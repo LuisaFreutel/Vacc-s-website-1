@@ -34,6 +34,15 @@ nav{
 .bg-primary {
    background-color:lightblue !important;
 }
+p{
+  font-size: 25px;
+}
+h2{
+  font-size: 40px;
+  color: white;
+  margin-top: 110px;
+  font-family: 'Neucha', cursive;
+}
 h5,
 h6{
   color: black;
@@ -48,5 +57,4 @@ h7{
   font-family: 'Neucha', cursive, bold;
   font-size: 20px;
   margin-bottom: -70px;
-
 }
