@@ -7,14 +7,12 @@ h1 {
   text-align: left;
   font-size: 50px;
   font-weight: bold;
-  border-radius: 50px;
-  border-left: double;
   font-family: 'Neucha', cursive;
 }
 
 p {
-  font-family: verdana;
-  font-size: 20px;
+    font-family: 'Neucha', cursive;
+    font-size: 20px;
 }
 nav{
   font-family: 'Neucha', cursive;
