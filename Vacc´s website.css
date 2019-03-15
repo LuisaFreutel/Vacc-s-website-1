@@ -33,3 +33,12 @@ nav{
 .bg-primary {
    background-color:lightblue !important;
 }
+p{
+  font-size: 25px;
+}
+h2{
+  font-size: 40px;
+  font-family: 'Neucha', cursive;
+  color: white;
+  margin-top: 110px;
+  }
