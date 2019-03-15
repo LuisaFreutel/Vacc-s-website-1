@@ -8,7 +8,7 @@ body {
 h1 {
   color: white;
   text-align: left;
-  font-size: 50px;
+  font-size: 60px;
   font-weight: bold;
   margin-top: 5px;
   margin-left: 30px;
@@ -19,8 +19,8 @@ h1 {
 p {
     font-family: 'Neucha', cursive;
     font-size: 20px;
-    margin-left: 80px;
-
+    margin-left: 90px;
+    margin-top: 2px;
 }
 nav{
   font-family: 'Neucha', cursive;
