@@ -8,6 +8,7 @@ h1 {
   font-size: 50px;
   font-weight: bold;
   border-radius: 50px;
+  border-left: double;
   font-family: 'Neucha', cursive;
 }
 
