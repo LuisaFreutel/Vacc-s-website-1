@@ -5,11 +5,17 @@ body {
 h1 {
   color: white;
   text-align: left;
-  font-size: 90px;
+  font-size: 50px;
+  font-weight: bold;
+  border-radius: 50px;
   font-family: 'Neucha', cursive;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
+}
+nav{
+  font-family: 'Neucha', cursive;
+  font-size: 30px;
 }
