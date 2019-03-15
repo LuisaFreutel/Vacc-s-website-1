@@ -1,3 +1,6 @@
+"".selector-for-some-widget {
+  box-sizing: content-box;
+}
 body {
   background-color: lightblue;
 }
@@ -5,12 +8,17 @@ body {
 h1 {
   color: white;
   text-align: left;
-  font-size: 90px;
+  font-size: 50px;
+  font-weight: bold;
   font-family: 'Neucha', cursive;
 
 }
 
 p {
-  font-family: verdana;
-  font-size: 20px;
+    font-family: 'Neucha', cursive;
+    font-size: 20px;
+}
+nav{
+  font-family: 'Neucha', cursive;
+  font-size: 30px;
 }
