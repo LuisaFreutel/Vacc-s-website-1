@@ -143,3 +143,16 @@ h7{
     .portfolio-box-caption-content
     .project-name {
     font-size: 15px;
+}
+.mb-3{
+  font-family: 'Neucha', cursive;
+  font-weight: bold;
+  font-size: 22px;
+  color: white;
+}
+.text-muted{
+    font-family: 'Neucha', cursive;
+    font-size: 15px;
+    color: grey;
+
+}
