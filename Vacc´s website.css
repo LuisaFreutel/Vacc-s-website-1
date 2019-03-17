@@ -39,6 +39,12 @@ p{
 }
 h2{
   font-size: 40px;
+
+  font-family: 'Neucha', cursive;
+  color: white;
+  margin-top: 110px;
+  }
+
   color: white;
   margin-top: 110px;
   font-family: 'Neucha', cursive;
@@ -58,3 +64,4 @@ h7{
   font-size: 20px;
   margin-bottom: -70px;
 }
+
