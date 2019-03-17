@@ -17,11 +17,9 @@ h1 {
   margin-top: 5px;
   margin-left: 30px;
   font-family: 'Neucha', cursive;
-
 }
-
 p {
-  color: grey;
+    color: grey;
     font-family: 'Neucha', cursive;
     font-size: 20px;
     margin-left: 90px;
@@ -60,4 +58,3 @@ h7{
   font-family: 'Neucha', cursive, bold;
   font-size: 20px;
   margin-bottom: -70px;
-
