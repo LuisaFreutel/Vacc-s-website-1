@@ -12,18 +12,18 @@ body {
 h1 {
   color: white;
   text-align: left;
-  font-size: 60px;
+  font-size: 65px;
   font-weight: bold;
   margin-top: 5px;
   margin-left: 30px;
   font-family: 'Neucha', cursive;
 }
-p {
+p1{
     color: grey;
     font-family: 'Neucha', cursive;
-    font-size: 20px;
+    font-size: 25px;
     margin-left: 90px;
-    margin-top: -20px;
+    margin-top: -10px;
 }
 nav{
   font-family: 'Neucha', cursive;
@@ -35,6 +35,7 @@ nav{
 p{
   font-size: 25px;
   color: white;
+  font-family: 'Neucha', cursive;
 }
 h2{
   font-size: 40px;
@@ -43,16 +44,41 @@ h2{
   font-family: 'Neucha', cursive;
 
 }
-h5,
+h5{
+  color: black;
+  font-family: 'Neucha', cursive; bold;
+  font-size: 20px;
+  margin-bottom: 80px;
+  margin-top: 20px;
+}
+
 h6{
   color: black;
   font-family: 'Neucha', cursive, bold;
   font-size: 20px;
-  margin-bottom: -40px;
+  margin-bottom: 80px;
   margin-top: 50px;
 }
+
 h7{
   color: white;
   font-family: 'Neucha', cursive, bold;
   font-size: 20px;
-  margin-bottom: -70px;
+  margin-bottom: 50px;
+}
+h8{
+  font-family: 'Neucha', cursive, bold;
+  margin-bottom: -50px;
+}
+h9{
+  font-family: 'Neucha', cursive, bold;
+  color: white;
+  font-size: 50px;
+  margin-bottom: auto;
+}
+card-body{
+  font-family: 'Neucha', cursive, bold;
+  color: white;
+  font-size: 50px;
+  margin-bottom: auto;
+}
