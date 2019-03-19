@@ -18,7 +18,7 @@ h1 {
   margin-left: 30px;
   font-family: 'Neucha', cursive;
 }
-p {
+p1 {
     color: grey;
     font-family: 'Neucha', cursive;
     font-size: 20px;
@@ -34,7 +34,8 @@ nav{
 }
 p{
   font-size: 25px;
-  color: grey;
+  color: white;
+  font-family: 'Neucha', cursive;
 }
 h2{
   font-size: 40px;
@@ -61,6 +62,13 @@ h9{
   color: white;
   font-size: 50px;
   font-family: 'Neucha', cursive, bold;
+}
+h10{
+  color: white;
+  font-size: 45px;
+  font-family: 'Neucha', cursive, bold;
+  margin-left:600px;
+
 }
 .no-padding{
   background-color: white !important;
