@@ -27,6 +27,8 @@ p1 {
 nav{
   font-family: 'Neucha', cursive;
   font-size: 30px;
+  position: inherit;
+
 }
 .bg-primary {
    background-color:lightblue !important;
@@ -74,6 +76,7 @@ h9{
   font-size: 50px;
   margin-bottom: 50px;
   margin-top: 40px;
+  padding-top: 120px;
 }
 .no-padding{
   background-color: white !important;
@@ -87,12 +90,15 @@ h9{
   font-size: 40px;
   text-align: center ;
   font-weight: bold;
+  padding-bottom: 20px;
+  padding-top: 120px;
 }
 .portfolio-box {
   position: relative;
   display: block;
   max-width: 650px;
   margin: 0 auto;
+  
 }
 .portfolio-box .portfolio-box-caption {
   position: absolute;
@@ -123,9 +129,9 @@ h9{
   .portfolio-box-caption
   .portfolio-box-caption-content
   .project-name {
-  padding: 0 15px;
   font-family: 'Neucha', cursive;
   font-weight: bold;
+
 
 }
 .portfolio-box
@@ -177,4 +183,12 @@ h12{
 font-family: 'Neucha', cursive, bold;
 font-size: 20px;
 margin-bottom: 60px;
+}
+.fa {
+  padding-top: 90px;
+  font-size: 80px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+  margin-left: 230px;
 }
