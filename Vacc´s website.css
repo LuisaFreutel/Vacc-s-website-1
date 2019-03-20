@@ -23,7 +23,6 @@ p1 {
     font-family: 'Neucha', cursive;
     font-size: 25px;
     margin-left: 90px;
-    margin-top: -20px;
 }
 nav{
   font-family: 'Neucha', cursive;
@@ -44,19 +43,30 @@ h2{
   font-family: 'Neucha', cursive;
 
 }
-h5,
+h5{
+  font-family: 'Neucha', cursive, bold;
+  font-size: 30px;
+  color: black;
+  margin-bottom: 50px;
+
+}
 h6{
   color: black;
   font-family: 'Neucha', cursive, bold;
   font-size: 20px;
-  margin-bottom: -40px;
-  margin-top: 50px;
+  margin-top: 65px;
 }
 h7{
   color: white;
   font-family: 'Neucha', cursive, bold;
   font-size: 20px;
   margin-bottom: -70px;
+}
+h8{
+  color: white;
+  font-family: 'Neucha', cursive, bold;
+  font-size: 20px;
+
 }
 h9{
   color: white;
@@ -161,5 +171,10 @@ h9{
     font-family: 'Neucha', cursive;
     font-size: 15px;
     color: grey;
-
+}
+h12{
+  color: black;
+font-family: 'Neucha', cursive, bold;
+font-size: 20px;
+margin-bottom: 60px;
 }
