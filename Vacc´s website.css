@@ -49,7 +49,7 @@ h5{
   font-family: 'Neucha', cursive, bold;
   font-size: 30px;
   color: black;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 
 }
 h6{
@@ -74,13 +74,10 @@ h9{
   color: white;
   font-family: 'Neucha', cursive, bold;
   font-size: 50px;
-  margin-bottom: 50px;
-  margin-top: 40px;
-  padding-top: 120px;
+  padding-top: 80px;
 }
 .no-padding{
   background-color: white !important;
-
 }
 .card{
   background-color: lightblue !important;
@@ -166,6 +163,7 @@ h9{
     .portfolio-box-caption-content
     .project-name {
     font-size: 15px;
+    padding-bottom: 50px;
 }
 .mb-3{
   font-family: 'Neucha', cursive;
